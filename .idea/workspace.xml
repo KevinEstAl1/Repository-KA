@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfab4904-63f7-430a-b79e-5755f8993216" name="Changes" comment="create lab  3 main">
+      <change beforePath="$PROJECT_DIR$/LAB 2/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB 2/clase.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB 2/estudiante.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB 3" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2lznxf0xVvqyfELrcUTzVbEgubr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfab4904-63f7-430a-b79e-5755f8993216" name="Changes" comment="" />
+      <created>1726192024917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726192024917</updated>
+    </task>
+    <task id="LOCAL-00001" summary="lab 3 changes">
+      <created>1726192147034</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726192147034</updated>
+    </task>
+    <task id="LOCAL-00002" summary="lab 3 changes">
+      <created>1726192404327</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726192404328</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lab 3 changes delete">
+      <created>1726192501595</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726192501595</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lab 3 changes add">
+      <created>1726192546702</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726192546702</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lab 3 changes add">
+      <created>1726192552000</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726192552000</updated>
+    </task>
+    <task id="LOCAL-00006" summary="create lab  3">
+      <created>1726192956280</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726192956280</updated>
+    </task>
+    <task id="LOCAL-00007" summary="create lab  3">
+      <created>1726193137050</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726193137050</updated>
+    </task>
+    <task id="LOCAL-00008" summary="create lab  3">
+      <created>1726193205067</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726193205067</updated>
+    </task>
+    <task id="LOCAL-00009" summary="create lab  3 main">
+      <created>1726193350625</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1726193350625</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/LABORATORIO 3" />
+    </ignored-roots>
+    <MESSAGE value="lab 3 changes" />
+    <MESSAGE value="lab 3 changes delete" />
+    <MESSAGE value="lab 3 changes add" />
+    <MESSAGE value="create lab  3" />
+    <MESSAGE value="create lab  3 main" />
+    <option name="LAST_COMMIT_MESSAGE" value="create lab  3 main" />
+  </component>
+</project>
